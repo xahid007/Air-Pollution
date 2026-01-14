@@ -1,8 +1,3 @@
-Here is a **clean, professional `README.md`** you can copy-paste directly into your GitHub repo.
-It’s **concise, clear, portfolio-ready**, and written exactly the way recruiters expect.
-
----
-
 # 🌫️ Air Pollution and Health Outcomes (WHO, 2019)
 
 ## Project Overview
