@@ -25,6 +25,7 @@ The data was accessed programmatically via the **WHO Global Health Observatory (
 ## Dataset Description
 
 The final dataset represents a **cross-sectional snapshot for 2019** and contains **183 countries**.
+For furhter analysis corresponding continent is also added.
 
 Each row corresponds to **one country in one year** with the following variables:
 
@@ -34,6 +35,7 @@ Each row corresponds to **one country in one year** with the following variables
 | `year`         | Reference year (2019)                    |
 | `pm25`         | Average PM2.5 exposure (µg/m³)           |
 | `death_rate`   | Death rate attributable to air pollution |
+| `continent`    | Continent                                |
 
 ---
 
@@ -52,7 +54,7 @@ Each row corresponds to **one country in one year** with the following variables
 ## Scope and Limitations
 
 * The analysis is **cross-sectional**, limited to the year **2019**, due to the availability of country-level mortality data.
-* The dataset supports **between-country comparisons**, but not time-series trend analysis.
+* The dataset supports **between-country comparisons** and **between-continent comparisons**.
 * Results describe **associations**, not causal relationships.
 
 ---
