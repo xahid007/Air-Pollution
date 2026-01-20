@@ -4,7 +4,7 @@
 
 This project analyzes the relationship between **air pollution exposure** and **health outcomes** across countries using open healthcare data from the **World Health Organization (WHO)**.
 
-The analysis focuses on **PM2.5 air pollution levels** and **air-pollution-attributable death rates** at the **country level** for the year **2019**.
+The analysis focuses on **PM2.5 air pollution levels** and **air-pollution-attributable death rates** at the **country level** and **continent level** for the year **2019**.
 
 ---
 
