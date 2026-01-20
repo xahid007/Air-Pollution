@@ -96,18 +96,19 @@ who-air-pollution-analysis/
 
 ### Key Insights
 - 🌫️ **PM2.5 exposure varies substantially across countries**, with the highest levels concentrated in parts of the Middle East and South Asia.
-- ☣️ **Air-pollution-attributable mortality does not increase proportionally with PM2.5 levels**; the observed correlation is weakly positive, indicating a complex and non-linear relationship.
-- 🌍 **Countries with the highest air-pollution mortality exhibit average PM2.5 exposure nearly three times higher than the global mean** (~61 µg/m³ vs ~22 µg/m³), highlighting sustained high exposure as a critical risk factor even when it is not the highest globally.
-- 🔎 **Contrasting country patterns**—such as high pollution with relatively low mortality and moderate pollution with very high mortality—underscore that exposure alone does not determine health outcomes and that vulnerability factors play a major role.
+- ☣️ **Air-pollution-attributable mortality does not increase proportionally with PM2.5 levels**; the observed relationship is weakly positive, indicating a complex and non-linear association.
+- 🌍 **Countries with the highest air-pollution death rates exhibit only moderate average PM2.5 exposure** (≈15 µg/m³), which is *lower than the global average* (≈22 µg/m³). This suggests that high mortality can occur even without extreme pollution levels.
+- 🔎 **In contrast, countries with the highest PM2.5 exposure show average mortality rates close to the global mean**, highlighting that high pollution alone does not necessarily translate into the highest health burden.
+- 🧩 **These contrasting patterns indicate that population vulnerability—such as age structure, baseline health, and healthcare system capacity—plays a critical role in shaping pollution-related health outcomes.**
 
 ### Implications
-- 🏛️ **Air quality interventions should be paired with health system strengthening**, particularly in countries where high exposure coincides with elevated vulnerability.
-- 📊 **Cross-country comparisons of pollution impacts must account for demographic structure, baseline health, and healthcare capacity**, rather than relying on pollution metrics alone.
-- 📈 **Reducing PM2.5 levels in high-mortality countries—even if they remain above the global average—may yield disproportionate public health benefits.**
-- ⚠️ **As the analysis is cross-sectional (2019), findings reflect associations rather than causation**, reinforcing the need for longitudinal studies to assess long-term exposure effects.
+- 🏛️ **Air quality policies should be complemented by health system strengthening**, especially in countries experiencing high mortality despite moderate pollution exposure.
+- 📊 **Cross-country assessments of air pollution impacts must incorporate demographic and healthcare context**, rather than relying solely on pollution intensity metrics.
+- 📈 **Reducing PM2.5 exposure remains important, but targeted public health interventions may yield substantial benefits even where pollution levels are not extreme.**
+- ⚠️ **As this analysis is cross-sectional (2019), findings describe associations rather than causation**, underscoring the need for longitudinal studies to evaluate long-term exposure effects.
 
 ### One-line takeaway
-> **Reducing air pollution is essential, but minimizing its health impact depends just as critically on population vulnerability and healthcare capacity.**
+> **Air pollution matters, but population vulnerability and health system capacity are decisive factors in determining its ultimate health impact.**
 
 
 ---
