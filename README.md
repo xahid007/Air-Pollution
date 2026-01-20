@@ -78,7 +78,7 @@ This dataset is suitable for:
 
 ```
 who-air-pollution-analysis/
-│
+├── assets/
 ├── data/
 │   ├── raw/
 │   └── processed/
