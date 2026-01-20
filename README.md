@@ -107,6 +107,8 @@ who-air-pollution-analysis/
 - 🌍 **Africa combines high PM2.5 exposure with comparatively moderate mortality**, suggesting the role of younger population structures, under-diagnosis, or variation in healthcare access.
 - 🌎 **North America and Oceania show both low PM2.5 exposure and low mortality**, reflecting stronger environmental regulation and healthcare systems.
 - 🌎 **South America falls between these extremes**, indicating mixed environmental and health system conditions.
+- 🌏 **Asia has the highest average PM2.5 exposure, while Europe records the highest air-pollution-attributable mortality**, demonstrating that pollution intensity alone does not determine health outcomes.
+
 
 ### Implications
 - 🏛️ **Air quality policies should be complemented by health system strengthening**, especially in regions experiencing high mortality despite moderate pollution exposure.
