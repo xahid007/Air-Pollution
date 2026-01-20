@@ -87,6 +87,8 @@ who-air-pollution-analysis/
 ```
 
 ---
+## Dashboard
+![dashboard](assets/dashboard.png)
 
 ## 🔑 Key Insights & Implications
 
